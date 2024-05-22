@@ -1,4 +1,26 @@
-## Hi there 👋
+# Hi 👋! My name is Alexandr and I'm a frontend developer
+
+
+# Hi 👋! My name is Vlad and I'm a frontend developer, from **Ukraine!**
+
+[![Support Ukraine](https://user-images.githubusercontent.com/gh_user_id/gh_image_id.png)](https://link_to_support_site)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername) [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yourusername)
+
+## 🛠️ Tech Stack:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react) ![React Query](https://img.shields.io/badge/-React%20Query-black?style=for-the-badge&logo=react-query) ![React Router](https://img.shields.io/badge/-React%20Router-black?style=for-the-badge&logo=react-router) ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-black?style=for-the-badge&logo=react-hook-form)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js) ![Vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel) ![Render](https://img.shields.io/badge/-Render-black?style=for-the-badge&logo=render)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase) ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-black?style=for-the-badge&logo=github) ![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=netlify) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma) ![Canva](https://img.shields.io/badge/-Canva-black?style=for-the-badge&logo=canva) ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman) ![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=trello)
+
+## 📊 GitHub Stats:
+![Vladislav Matveichenko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+
+
+
+
 
 <!--
 **PlatenPrime/platenprime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
