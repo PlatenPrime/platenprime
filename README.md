@@ -2,7 +2,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BC%D0%B0%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-323349301/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/александр-марченко-323349301/) 
 
 ## 🛠️ Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript) ![Expo](https://img.shields.io/badge/-Expo-black?style=for-the-badge&logo=expo)   ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react) ![React Query](https://img.shields.io/badge/-React%20Query-black?style=for-the-badge&logo=react-query) ![React Router](https://img.shields.io/badge/-React%20Router-black?style=for-the-badge&logo=react-router) ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-black?style=for-the-badge&logo=react-hook-form)
