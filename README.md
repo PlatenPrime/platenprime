@@ -1,4 +1,4 @@
-# Hi 👋! My name is Alexandr and I'm a frontend developer
+# Hi 👋! My name is Aleksandr and I'm a frontend developer
 
 
 ## 🌐 Socials:
@@ -12,7 +12,8 @@
 
 ## 📊 GitHub Stats:
 ![Aleksandr Marchenko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=platenprime&show_icons=true&theme=dark)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=platenprime&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=platenprime&layout=compact&theme=dark)
 
 
 
