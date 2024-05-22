@@ -1,4 +1,5 @@
-# Hi 👋! My name is Aleksandr and I'm a frontend developer
+# Здоровенькі були 👋!
+# My name is Aleksandr and I'm a frontend developer
 
 
 ## 🌐 Socials:
