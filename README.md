@@ -1,36 +1,82 @@
-#  👋 Здоровенькі були! 
+# 👋 Hi, I'm Aleksandr!
 
+🚀 Fullstack Developer (MERN)  
+💡 Building scalable web apps & clean architectures  
+📍 Based in Ukraine  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/александр-марченко-323349301/) 
+---
 
+## 🧠 About Me
 
-## 📊 GitHub Stats:
-![Aleksandr Marchenko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=platenprime&show_icons=true&theme=dark)
-<!--
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=platenprime&theme=dark)
--->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=platenprime&layout=compact&theme=dark)
+- 🧩 I design and build fullstack applications using **MongoDB, Express, React, Node.js**
+- ⚙️ Focused on **performance, scalability, and clean code**
+- 🔄 Constantly improving my understanding of **Event Loop, async patterns, and system design**
+- 🧪 Currently exploring **testing, architecture patterns, and advanced TypeScript**
 
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=platenprime&theme=darkhub&column=7)
+---
 
-## 📜 Random Dev Quote:
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🛠 Tech Stack
 
+### 🚀 Frontend
+- React / Next.js  
+- TypeScript  
+- Zustand
+- Tanstack  
+- Tailwind / shadcn
 
+### ⚙️ Backend
+- Node.js / Express  
+- MongoDB / Mongoose  
+- REST API design  
+- Authentication / Authorization  
 
-<!--
-**PlatenPrime/platenprime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧰 Tools & Others
+- Git / GitHub   
+- Vite  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+
+### 🧪 Instruction Builder App
+> App for creating instructions and tests
+
+- React + TypeScript
+- Tanstack Query
+
+---
+
+### 📦 Warehouse Management API
+> REST API for managing pallets, rows, and positions
+
+- Node.js + Express + MongoDB
+- Complex business logic (movement, validation)
+- Clean architecture approach
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Goals
+
+- 🧠 Master system design
+- ⚡ Build high-load applications
+- 🧪 Improve testing culture
+- 📦 Create production-ready SaaS products
+
+---
+
+## 📫 Contact Me
+
+- Telegram: [@platenprime]
+- Email: proshta@gmail.com
+
+---
+
+⭐️ Always open to interesting projects and collaboration
